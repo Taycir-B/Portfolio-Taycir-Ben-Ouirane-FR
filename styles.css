@@ -1,15 +1,17 @@
+/* Header */
 header {
-    background-color: #333; /* Couleur de fond */
-    color: #fff; /* Couleur du texte */
+    background-color: #333;
+    color: #fff;
     padding-top: 20px;
     text-align: center;
 }
-header h1{
-    margin:1% 0;
+
+header h1 {
+    margin: 1% 0;
     text-align: left;
     padding-left: 5%;
-    
 }
+
 /* Navigation */
 nav {
     background-color: #444;
@@ -31,9 +33,13 @@ nav ul li a {
     text-decoration: none;
     font-weight: bold;
 }
+
+/* Main */
 main {
     padding: 20px;
 }
+
+/* Formation Section */
 .formation-contenu {
     display: flex;
     justify-content: space-between;
@@ -47,18 +53,18 @@ main {
 .ecole-logo {
     width: 30%;
     text-align: center;
-    margin-top:7%;
+    margin-top: 7%;
 }
 
-.rond img{
+.rond img {
     border-radius: 50%;
-    width:60%;
-    margin-top:5%;
+    width: 60%;
+    margin-top: 5%;
 }
 
 .ecole-logo img {
     max-width: 100%;
-    margin:10% 0;
+    margin: 10% 0;
     text-align: center;
 }
 
@@ -66,54 +72,71 @@ h2 {
     color: #333;
     margin: 1% 0;
 }
-h3{
+
+h3 {
     margin: 1%;
-}
-.job div p{
-    margin: 1%;
-}
-.job div ul li, .formation-details li, .competences ul{
-    margin: 0.9% 5%;
-    list-style-type:disclosure-closed; 
-}
-p {
-    color: #555;
-    style;line-height: 1.5;
 }
 
-ul,.competences ul li ul {
+.job div p {
+    margin: 1%;
+}
+
+.job div ul li,
+.formation-details li,
+.competences ul {
+    margin: 0.9% 5%;
+    list-style-type: disclosure-closed;
+}
+
+p {
+    color: #555;
+    style;
+    line-height: 1.5;
+}
+
+ul,
+.competences ul li ul {
     list-style-type: none;
     padding-left: 0;
     margin: 1%;
 }
 
-/* Style spécifique pour la section "À propos de moi" */
-
-.intro, .experience, .job, .formation, .projet, .competences {
+/* Specific styling for sections */
+.intro,
+.experience,
+.job,
+.formation,
+.projet,
+.competences {
     background-color: #f9f9f9;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
 }
-.competences ul li li{
+
+.competences ul li li {
     list-style-type: none;
-    
 }
-.intro p, .experience p, .projet p{
+
+.intro p,
+.experience p,
+.projet p {
     padding: 0.1%;
     margin-bottom: 20px;
 }
-/* Style spécifique pour la section "Compétences" */
 
+/* Skills Section */
 .competences {
     margin-bottom: 20px;
 }
-.competences img{
-    width-max:100%;
-    margin:5% 0;
+
+.competences img {
+    width-max: 100%;
+    margin: 5% 0;
     width: 100%;
 }
+
 .competences h2 {
     color: #333;
     margin-bottom: 10px;
@@ -135,39 +158,7 @@ ul,.competences ul li ul {
     margin-top: 5px;
 }
 
-/* Style spécifique pour la section "Contact" */
-
-.contact {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
-}
-
-.contact h2 {
-    margin-bottom: 10px;
-}
-
-.contact ul {
-    padding-left: 0;
-}
-
-.contact li {
-    margin-bottom: 10px;
-}
-
-.contact a {
-    color: #ffd700;
-    text-decoration: none;
-    transition: color 0.3s ease;
-}
-
-.contact a:hover {
-    color: #fff;
-}
-
-/* Pied de page */
+/* Footer */
 footer {
     background-color: #f4f4f4;
     padding: 20px;
@@ -198,13 +189,16 @@ footer ul li a {
 }
 
 footer ul li a:hover {
-    color: #ffd700; /* Changement de couleur au survol */
+    color: #ffd700;
 }
-/* Style pour les liens dans le menu lorsqu'ils sont survolés */
+
+/* Navigation Links Hover */
 nav ul li a:hover {
-    color: #ffd700; /* Couleur du texte au survol */
-    text-decoration: underline; /* Soulignement au survol */
+    color: #ffd700;
+    text-decoration: underline;
 }
+
+/* Jobs Section */
 .job {
     display: flex;
     justify-content: space-between;
@@ -219,6 +213,5 @@ nav ul li a:hover {
 .job-image img {
     max-width: 100%;
     border-radius: 50%;
-    width:70%;
+    width: 70%;
 }
-
