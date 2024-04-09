@@ -33,7 +33,7 @@ Les contributions sont les bienvenues ! Si vous rencontrez des problèmes ou ave
 Pour toute question, proposition de collaboration ou simplement pour discuter, n'hésitez pas à me contacter :
 
 - Email : [benouiranetaycir@gmail.com](mailto:benouiranetaycir@gmail.com)
-- LinkedIn : [Taycir Ben Ouirane](https://www.linkedin.com/in/taycir-ben-ouirane-40a93a1a2/)
+- LinkedIn : [Taycir Ben Ouirane](https://www.linkedin.com/in/taycir-b-40a93a1a2/)
 - GitHub : [Taycir B.O](https://github.com/Taycir-B)
 
 ## Licence
