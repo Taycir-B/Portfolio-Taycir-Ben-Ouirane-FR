@@ -18,6 +18,7 @@ Si vous préférez consulter la version anglaise de mon portfolio, vous pouvez l
 - CSS3
 - Visual Studio
 - Git
+- Trello
 
 ## Accéder au Portfolio
 
