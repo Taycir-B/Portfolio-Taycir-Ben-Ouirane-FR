@@ -2,15 +2,9 @@
 
 Bienvenue sur mon portfolio ! Ce dépôt contient la version française de mon portfolio.
 
-## Version française
-
 Ce dossier contient les fichiers de la version française de mon portfolio. Vous pouvez naviguer dans les différents fichiers pour en apprendre davantage sur mon parcours, mes compétences, mes projets, mon expérience et bien plus encore.
 
-Vous pouvez également consulter la version française de mon portfolio en ligne via GitHub Pages en suivant ce lien : [Portfolio de Taycir Ben Ouirane (version française)](https://taycir-b.github.io/Portfolio-Taycir-Ben-Ouirane-FR/).
-
-## Version anglaise
-
-Si vous préférez consulter la version anglaise de mon portfolio, vous pouvez la trouver [ici](https://taycir-b.github.io/Portfolio-Taycir-Ben-Ouirane-Ang/)
+Vous pouvez également consulter mon portfolio en ligne via GitHub Pages en suivant ce lien : [Portfolio de Taycir Ben Ouirane (version française)](https://taycir-b.github.io/Portfolio-Taycir-Ben-Ouirane-FR/).
 
 ## Technologies Utilisées
 
